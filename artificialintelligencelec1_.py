@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1pCgDThVT8rHyABgai2lJ-vtuE_bJ4wqT
 """
 
-#Q1
+#Q1.
 
 import math
 import os
